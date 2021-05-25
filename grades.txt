@@ -1,0 +1,8 @@
+Sandra
+5
+Dominique
+5
+Lisa
+3
+Anna
+Fail
